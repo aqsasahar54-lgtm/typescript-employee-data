@@ -70,5 +70,5 @@ const employees: employ[] = [
 
 
 // console.log(employees);
-// console.log(employees[1].address.city);
-console.log(employees[3].address.city);
+console.log(employees[1]);
+// console.log(employees[3].address.city);
